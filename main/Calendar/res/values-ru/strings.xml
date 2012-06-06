@@ -160,12 +160,12 @@
     <string name="more_string">%1$s больше...</string>
     <string name="chips_waiting_for_directory_result">Ожидаем ещё контакты</string>
     <string name="copy">Копировать e-mail</string>
-    <string name="birthday_notification_title_today">День рождения (<xliff:g id="name"> %1$s </xliff:g>)</string>
+    <string name="birthday_notification_title_today">День рождения (%1$s)</string>
     <string name="birthday_notification_text_today">Не забудьте поздравить с днем рождения!</string>
-    <string name="birthday_notification_title_three_days_later">Скоро День рождения (<xliff:g id="name">%1$s</xliff:g>)</string>
-    <string name="birthday_notification_text_three_days_later">3 дня до Дня рождения (<xliff:g id="date">%3$s</xliff:g>)</string>
+    <string name="birthday_notification_title_three_days_later">Скоро День рождения (%1$s)</string>
+    <string name="birthday_notification_text_three_days_later">3 дня до Дня рождения (%3$s)</string>
     <string name="birthday_event_title">@string/birthday_notification_title_today</string>	
-    <string name="birthday_event_description">Сегодня День рождения <xliff:g id="name">%1$s</xliff:g>!</string>	
+    <string name="birthday_event_description">Сегодня День рождения %1$s!</string>	
     <string name="birthday_event_description_detail_leap"></string>	
     <string name="birthday_event_description_detail_smart"></string>
 </resources>
