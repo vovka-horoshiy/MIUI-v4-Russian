@@ -43,9 +43,9 @@
     <string name="theme_select_others">Другие</string>
     <string name="third_party_pickers_activity_title">Установить %1$s</string>
     <string name="wallpaper_settings">Настройки обоев</string>
-    <string name="desktop_wallpaper">Обои на рабочий стол</string>
+    <string name="desktop_wallpaper">Рабочий стол</string>
     <string name="live_wallpaper">Живые обои</string>
-    <string name="lockscreen_wallpaper">Обои блокировки</string>
+    <string name="lockscreen_wallpaper">Экран блокировки</string>
     <string name="change_wallpaper">Изменить Обои</string>
     <string name="component_settings_title">Настройка локальных тем</string>
     <string name="component_select_title">Выбрано %1$s категорий</string>

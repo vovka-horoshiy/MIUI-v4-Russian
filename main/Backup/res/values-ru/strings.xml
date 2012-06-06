@@ -129,9 +129,9 @@
     <string name="task_restore_none">Нет необходимости восстанавливать</string>
     <string name="task_stopped_exception">Задание отменено</string>
     <string name="sdcard_no_enough_space">Недостаточно свободного места на SD-карте</string>
-    <string name="sdcard_no_enough_space_warning">SD-карта переполнена, возможен сбой резервного копирования, вы хотите продолжить?</string>
-    <string name="data_no_enough_space">Недостаточно свободного места внутренней памяти, освободите место и повторите попытку</string>
-    <string name="data_no_enough_space_warning">Во внутренней памяти меньше 30 Mб свободного пространства, восстановление может завершиться неудачно, вы хотите продолжить?</string>
+    <string name="sdcard_no_enough_space_message">Возможен сбой резервного копирования, освободите память и попробуйте еще раз</string>
+    <string name="data_no_enough_space">Недостаточно свободного места</string>
+    <string name="data_no_enough_space_message">Возможен сбой резервного копирования, освободите память и попробуйте еще раз</string>
     <string name="task_running_hint">Служба работает в фоновом режиме, пожалуйста, попробуйте еще раз восстановить эту резервную копию!</string>
     <string name="task_running_dialog">Резервное копирование и восстановление работают в фоне, чтобы увидеть его, нажмите ОК</string>
     <string name="task_service_not_launched">Сервис не запущен, ждите!</string>

@@ -1621,8 +1621,7 @@
     <string name="access_control_password_title">Использовать пароль</string>
     <string name="access_control_apps_title">Изменить доступ к приложениям</string>
     <string name="access_control_need_to_unlock">Требовать пароль для разблокировки</string>
-    <string name="access_control_need_password">"%s защищено
-"</string>
+    <string name="access_control_need_password">"%s защищено"</string>
     <string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
     <string name="access_control_recording_intro_header">Использовать шаблон для создания пароля блокировки</string>
     <string name="access_control_app_entry_single">Открыть выбранные приложения</string>
@@ -1633,8 +1632,7 @@
     <string name="key_settings">Кнопки</string>
     <string name="back_long_press">Клавиша Назад</string>
     <string name="enable_back_long_press">Долгое нажатие закрывает приложение</string>
-    <string name="back_long_press_timeout">"Задержка
-%1$.1f сек."</string>
+    <string name="back_long_press_timeout">Задержка</string>
     <string name="power_key">Клавиша питания</string>
     <string name="disable_power_key_long_press_under_keyguard">Отключить на локскрине</string>
     <string name="media_button">Клавишы медиа</string>

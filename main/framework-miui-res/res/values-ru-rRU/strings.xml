@@ -42,6 +42,12 @@
     <string name="all_resources">Все</string>
     <string name="resource_default_name">Ресурсы</string>
     <string name="resource_detail">Дополнительная информация</string>
+    <string name="resource_selected_number">Выбрано %1$d ресурс(ов)</string>
+    <string name="resource_delete_all">Удалить %1$d выбранные ресурсы?</string>
+    <string name="resource_can_not_selected">%1$s нельзя выбрать!</string>
+    <string name="resource_system_title">Системные ресурсы</string>
+    <string name="resource_downloaded_title">Загруженные ресурсы</string>	
+    <string name="processing">Обработка ...</string>	
     <string name="global_action_toggle_privacy_mode">Гость</string>
     <string name="global_action_privacy_mode_on_status">Гостевой режим включен.</string>
     <string name="global_action_privacy_mode_on_toast">Гостевой режим включен. Журнал вызовов и текстовых сообщений скрыты, редактирование рабочего стола заблокировано.</string>

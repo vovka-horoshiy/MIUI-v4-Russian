@@ -59,6 +59,7 @@
 	<string name="encryption">Шифрование</string>
 	<string name="default_folder_title_tools">Утилиты</string>
 	<string name="default_folder_title_recommend">Рекомендуемые</string>
+	<string name="default_folder_title_game">Игры</string>
 	<string name="preferences_title">Параметры рабочего стола</string>
 	<string name="preferences_general_title">Настройки</string>
 	<string name="pref_keep_in_memory_title">Держать в памяти</string>

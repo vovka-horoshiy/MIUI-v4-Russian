@@ -352,6 +352,7 @@
   <string name="full_phrase">Не более 50 символов</string>
   <string name="delete_phrase">Удалить шаблон</string>
   <string name="phrase_confirm_delete_message">Удалить шаблоны</string>
+  <string name="phrase_from">От %1s</string>
   <string name="pref_title_notification_body_enabled">Показывать сообщения</string>
   <string name="pref_summary_notification_body_enabled">Просмотр сообщений на экране блокировки и в статус баре</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Просмотр сообщений отключен в режиме гостя</string>
@@ -417,6 +418,7 @@
   <string name="wap_push_title">"[Push-сообщение] "</string>
   <string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
   <string name="add_timing">Время</string>
+    <string name="menu_view_original_message">Показать оригинал сообщения</string>
   <string name="pref_title_system_mms_priority">Приоритет приложения</string>
   <string name="pref_summary_on_system_mms_priority">Первым сообщение получит системное приложение ММС</string>
   <string name="pref_summary_off_system_mms_priority">Первым сообщение получит стороннее приложение ММС</string>  
@@ -431,16 +433,5 @@
   <string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
   <string name="timed_message_to">для</string>
   <string name="timed_message_in_total">... (всего: %d)</string>
-  <string name="confirm_delete_RUIM_message">Сообщение на RUIM карте будет удалено.</string>
-  <string name="confirm_delete_all_RUIM_messages">Все сообщения на RUIM карте будут удалены.</string>
-  <string name="festival_sms_sdcard_unready">Не удается загрузить список, убедитесь, что SD-карта вставлена</string>
-  <string name="pref_summary_manage_ruim_messages">Управление сообщениями на RUIM карте</string>
-  <string name="pref_title_manage_ruim_messages">Сообщения на RUIM карте</string>
-  <string name="ruim_empty">На RUIM карте нет сообщений.</string>
-  <string name="ruim_full_title">RUIM карта переполнена</string>
-  <string name="ruim_manage_messages_title">Текстовые сообщения на RUIM карте</string>
-  <string name="save_to_ruim">Сохранить на RUIM карту</string>
-  <string name="date_timed_message_dialog">Дата:</string>
-  <string name="time_timed_message_dialog">Время:</string>
-  <string name="message_title">%1$s %2$s написал:</string>
+  <string name="processing">Обработка...</string>
 </resources>
