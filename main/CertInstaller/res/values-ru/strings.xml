@@ -27,6 +27,6 @@
     <string name="cert_too_large_error">Установка не удалась. Размер сертификата слишком велик.</string>
     <string name="cert_missing_error">Установка завершилась со сбоем. Не удается найти файл сертификата.</string>
     <string name="cert_read_error">Установка завершилась со сбоем. Не удается прочитать файл сертификата.</string>
-    <string name="no_cert_file_found">На USB-накопителе отсутствует файл сертификата.</string>
-    <string name="sdcard_not_present">USB-накопитель недоступен.</string>
+    <string name="no_cert_file_found">На SD-карте отсутствует файл сертификата</string>
+    <string name="sdcard_not_present">SD-карта недоступна</string>
 </resources>

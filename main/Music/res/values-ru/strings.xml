@@ -7,7 +7,7 @@
 	<string name="deselect_all">Отмена</string>
 	<string name="network_error">Нет подключения к сети, пожалуйста, проверьте сетевые настройки</string>
 	<string name="server_failed">Подключение к серверу не удалось, повторите попытку позже</string>
-  <string name="search_result_format">\"%s\"</string>
+        <string name="search_result_format">\"%s\"</string>
 	<string name="artist_details_format">%1$s, %2$s</string>
 	<string name="sleep_mode">Спящий режим</string>
 	<string name="cancel_sleep_mode">Спящий режим отменён</string>
@@ -15,8 +15,8 @@
 	<string name="quit_warining">Автоотключение через %d минут(у)</string>
 	<string name="refresh_media_db">Обновить</string>
 	<string name="refresh_in_processing">Обновление...</string>
-  <string name="refresh_finish">Обновление завершено</string>
-  <string name="refresh_start">Началось обновлление, пожалуйста, подождите...</string>
+        <string name="refresh_finish">Обновление завершено</string>
+        <string name="refresh_start">Началось обновлление, пожалуйста, подождите...</string>
 	<string name="quit_player">Выход</string>
 	<string name="music_settings">Настройки</string>
 	<string name="mobile_connect_settings">Мобильная сеть</string>
@@ -89,7 +89,7 @@
 	<string name="queue">В очередь</string>
 	<string name="new_playlist">Новый плейлист</string>
 	<string name="new_playlist_name_template">Новый плейлист %d</string>
-  <string name="emptyplaylist">Плейлист пуст</string>
+        <string name="emptyplaylist">Плейлист пуст</string>
 	<string name="loading">Загрузка</string>
 	<string name="sort_by_track">Сортировать по песням</string>
 	<string name="sort_by_album">Сортировать по альбомам</string>
@@ -162,8 +162,8 @@
 	<string name="service_start_error_button">OK</string>
 	<string name="streamloadingtext">Подключение к %s</string>
 	<string name="playback_failed">К сожалению, проигрыватель не поддерживает этот тип аудио файлов.</string>
-  <string name="playback_failed_by_bad_file">"'%s'Невозможно проиграть трэк, не поддерживается формат файла"</string>
-  <string name="playback_failed_by_network">"'%s'Невозможно проиграть трэк, проверьте сетевое подключение"</string>
+        <string name="playback_failed_by_bad_file">"'%s'Невозможно проиграть трэк, не поддерживается формат файла"</string>
+        <string name="playback_failed_by_network">"'%s'Невозможно проиграть трэк, проверьте сетевое подключение"</string>
 	<string name="playback_failed_no_title_by_bad_file">Невозможно проиграть трэк, не поддерживается формат файла</string>
 	<string name="playback_failed_no_title_by_network">Невозможно проиграть трэк, проверьте сетевое подключение</string>
 	<string name="buffering">Кеширование...</string>
@@ -185,12 +185,14 @@
 	<string name="overwrite_confirm">Перезаписать</string>
 	<string name="picker_song_add">Добавить (%d)</string>
 	<string name="add_tracks">Добавить песни</string>
-  <string name="detail_artist">"Исполнитель: "</string>
-  <string name="detail_album">"Альбом: "</string>
-  <string name="detail_genre">"Жанр: "</string>
-  <string name="detail_size">"Размер: "</string>
-  <string name="detail_format">"Формат: "</string>
-  <string name="notification_artist_album">"%2$s
+        <string name="detail_artist">"Исполнитель: "</string>
+        <string name="detail_album">"Альбом: "</string>
+        <string name="detail_genre">"Жанр: "</string>
+        <string name="detail_size">"Размер: "</string>
+        <string name="detail_format">"Формат: "</string>
+        <string name="albumsongseparator">"
+"</string>
+        <string name="notification_artist_album">"%2$s
 %1$s"</string>
 	<string name="durationformatshort">%2$d:%5$02d</string>
 	<string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -202,6 +204,4 @@
 	<string name="filter_max">2MB</string>
 	<string name="filter_min">0K</string>
         <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-        <string name="delete_song_desc_nosdcard">Вы уверены что хотите удалить файл %s с SD-карты?</string>
-        <string name="search_failed_report">Нет похожих треков</string>
 </resources><!--Parsed with BurgerZ.pro XML Parser-->

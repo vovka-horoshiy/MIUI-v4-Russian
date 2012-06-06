@@ -146,7 +146,7 @@
     <string name="status_bar_time_format_24">H:mm</string>
     <string name="status_bar_date_format">EEEE, d MMMM yyyy</string>
     <string name="status_bar_recent_memory_info_format">%dM</string>
-    <string name="usb_mode_notification">Подключить SD-карту</string>
+    <string name="usb_mode_notification">USB накопитель</string>
     <string name="usb_mode_dont_ask">Запомнить мой выбор</string>
     <string name="usb_mode_mount_storage_title">Подключить USB накопитель?</string>
     <string name="mount_storage">Подключить</string>

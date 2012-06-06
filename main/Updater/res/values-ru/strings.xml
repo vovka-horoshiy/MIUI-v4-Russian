@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string name="kernel_upgrade_link" />
+    <string name="kernel_upgrade_version" />
     <string name="app_name">Обновление системы</string>
     <string name="apply_now_button_text">Обновить</string>
     <string name="view_details">Подробнее</string>
@@ -101,8 +103,9 @@
     <string name="share_update_content_sign" formatted="false">Я обновил MIUI до %1$s! Мой рейтинг обновления %2$s. Подробный список изменений на %3$s</string>
     <string name="share_sina">Отправлять через Sina weibo</string>
     <string name="share_qq">Отправлять через Tencent weibo</string>
-    <string name="emegency_version">Горячее обновление</string>
-    <string name="stable_version">Стабильная версия</string>
-    <string name="test_version">Тестовая версия</string>
-    <string name="update_stable_version_only">Обновлять только на стабильные сборки</string>
+    <string name="upgrade_kernel">Текущая версия ядра требует обновления</string>
+    <string name="upgrade_kernel_msg">"Текущая версия ядра не совпадает с MIUI ROM. Вы должны обновить ядро вручную. Пожалуйста, прочтите справку:
+"</string>
+    <string name="view_upgrade_tutorial">Показать справку</string>
+    <string name="upgrade_close">Закрыть</string>
 </resources>

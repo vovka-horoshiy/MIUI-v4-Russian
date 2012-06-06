@@ -100,4 +100,5 @@
     <string name="search_hint">Найти заметки</string>
     <string name="search_setting_description">Текст в заметках</string>
     <string name="search">Заметки</string>
+    <string name="select_text">Выделить текст</string>
 </resources>

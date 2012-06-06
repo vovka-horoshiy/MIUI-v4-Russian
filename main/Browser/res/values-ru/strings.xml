@@ -355,7 +355,7 @@
     <string name="accessibility_state_frozen">Сохраненная страница</string>
     <string name="accessibility_transition_navscreen">Управление вкладками</string>
     <string name="tab_yellowpage">Категории</string>
-    <string name="tab_quicklinks">Quick links</string>
+    <string name="tab_quicklinks">Быстрые закладки</string>
     <string name="pref_content_night_read_mode">Ночной режим</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Выход и закрытие вкладок</string>
     <string name="pref_exit_on_closing_last_tab_enabled_summary">При выходе из браузера, закрывать последние вкладки в окне навигации. Снимите флажок, чтобы начинать с домашней страницы</string>

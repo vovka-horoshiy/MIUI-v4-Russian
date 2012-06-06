@@ -165,8 +165,4 @@
 	<string name="Privacy_App_TrustDialog_Title">Доверять этому приложению</string>
 	<string name="Privacy_App_TrustDialog_Content">MIUI не будет спрашивать вашего подтверждения любых действий связанных с этим приложением</string>
         <string name="Su_Enable_Dialog">%1$s пытается получить разрешения ROOT, что отключено по умолчанию для обеспечения безопасности системы. Если вам нужно включить его, пожалуйста перейдите к настройкам в диспетчере разрешений</string>
-	<string name="HIPS_Perm_Title">Разрешения</string>
-	<string name="HIPS_Perm_Network">Интернет</string>
-	<string name="HIPS_Perm_Network_Desc">Интернет</string>
-	<string name="HIPS_Perm_Network_Hint">%1$s приложений могут получить доступ к Интернет</string>
 </resources><!--Parsed with BurgerZ.pro XML Parser-->

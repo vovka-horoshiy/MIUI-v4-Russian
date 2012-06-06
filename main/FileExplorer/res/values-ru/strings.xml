@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string name="category_default_number_text">(0)</string>
     <string name="added_favorite">Добавлено в избранное</string>
     <string name="app_name">Файлы</string>
     <string name="cancel">Отмена</string>

@@ -10,6 +10,7 @@
     <string name="backup_theme_dialog_message">"Тема будет сохранена в %1$s"</string>
     <string name="backup_theme_progress_message">Сохранение...</string>
     <string name="backup_theme_success_message">Сохранение текущей темы завершено</string>
+    <string name="backup_theme_name">My Backup</string>
     <string name="theme_description_title_default">По умолчанию</string>
     <string name="theme_description_title_customized">Настройка</string>
     <string name="component_category_title">Изменить стиль</string>
@@ -52,8 +53,8 @@
     <string name="component_include_title">Содержит %1$s категорий</string>
     <string name="component_screen_title">Обои</string>
     <string name="resource_fail_to_show">Тема не содержит требуемых ресурсов</string>
-	<string name="wrong_title">Ошибка</string>
-	<string name="theme_format_wrong_content">Неверный формат темы</string>
+    <string name="wrong_title">Ошибка</string>
+    <string name="theme_format_wrong_content">Неверный формат темы</string>
     <string name="apply_font_tip">Тема содержит шрифт, требуется перезагрузка.</string>
     <string name="apply_font_btn_reboot">Применить с перезагрузкой</string>
     <string name="apply_font_btn_exclude">Применить без шрифта</string>
@@ -62,5 +63,4 @@
     <string name="title_component">Микс</string>
     <string name="title_system_resource">Системные ресурсы</string> 
     <string name="title_download_resource">Загруженные ресурсы</string> 
-	
 </resources>
