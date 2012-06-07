@@ -17,9 +17,9 @@
     <string name="sorted_flux">Статистика</string>
     <string name="menu_settings">Параметры</string>
     <string name="menu_traffic_adjust">Регулировка трафика</string>
-    <string name="menu_traffic_settings">Настройки трафика</string>
+    <string name="menu_traffic_settings">Лимит трафика</string>
     <string name="powered_by">Техническая поддержка: BurgerZ.pro</string>
-    <string name="pref_traffic_settings">Настройки трафика</string>
+    <string name="pref_traffic_settings">Лимит трафика</string>
     <string name="pref_traffic_adjust_title">Регулировка трафика</string>
     <string name="pref_traffic_daily_limit_settings">Настройки ежедневного лимита</string>
     <string name="pref_connect_settings_title">Настройки монитора</string>
@@ -29,8 +29,8 @@
     <string name="pref_connect_settings_enable_backgroung">Разрешить фоновые службы</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Разрешить автоматическое соединение с сетью в фоновом режиме</string>
     <string name="warning_title">Внимание</string>
-    <string name="close_txt">Закрыть</string>
-    <string name="cancel_txt">Отмена</string>
+    <string name="close_txt">Да</string>
+    <string name="cancel_txt">Нет</string>
     <string name="disable_background_connect_warning">При ограничении фонового трафика некоторые приложения или службы не смогут работать через 2G/3G. Вы уверены?</string>
     <string name="menu_refresh">Обновить</string>
     <string name="menu_sort">Сортировка</string>
@@ -38,7 +38,7 @@
     <string name="menu_hide_wifi">Скрыть Wi-Fi трафик</string>
     <string name="menu_display_system_app">Показывать системные</string>
     <string name="menu_hide_system_app">Скрыть системные</string>
-    <string name="adjust_traffic_title">Настройка трафика</string>
+    <string name="adjust_traffic_title">Регулировка трафика</string>
     <string name="month_traffic_settings_title">Ежемесячный трафик</string>
     <string name="sort_dialog_title">Сортировка</string>
     <string name="current_warning_value">Предупреждение: %s</string>
@@ -50,7 +50,7 @@
     <string name="adjust_traffic_carrier_settings_title">Оператор</string>
     <string name="adjust_traffic_auto_adjust_title">Автонастройка трафика</string>
     <string name="adjust_traffic_auto_adjust_hint">Система постоянно запрашивает и регулирует данные от операторов. Нужно настроить информацию от операторов</string>
-    <string name="manual_input_used_traffic_title">Ввод лимита трафика вручную</string>
+    <string name="manual_input_used_traffic_title">Ввод использованного трафика вручную</string>
     <string name="manual_input_used_traffic_hint">Использовано трафика</string>
     <string name="save">Сохранить</string>
     <string name="daily_limit_dialog_hint">Ежедневный лимит (Пусто или 0 - без ограничений)</string>
