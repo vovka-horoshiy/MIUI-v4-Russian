@@ -42,22 +42,10 @@
     <string name="all_resources">Все</string>
     <string name="resource_default_name">Ресурсы</string>
     <string name="resource_detail">Дополнительная информация</string>
-    <string name="resource_selected_number">Выбрано %1$d ресурс(ов)</string>
-    <string name="resource_delete_all">Удалить %1$d выбранные ресурсы?</string>
-    <string name="resource_can_not_selected">%1$s нельзя выбрать!</string>
-    <string name="resource_system_title">Системные ресурсы</string>
-    <string name="resource_downloaded_title">Загруженные ресурсы</string>	
-    <string name="processing">Обработка ...</string>	
-    <string name="global_action_toggle_privacy_mode">Гость</string>
-    <string name="global_action_privacy_mode_on_status">Гостевой режим включен.</string>
-    <string name="global_action_privacy_mode_on_toast">Гостевой режим включен. Журнал вызовов и текстовых сообщений скрыты, редактирование рабочего стола заблокировано.</string>
-    <string name="global_action_privacy_mode_dialog_message">При включенном \"Гостевом режиме\" журнал вызовов и текстовых сообщений будут скрыты, а редактирование рабочего стола заблокировано. Следует ли включить этот режим?</string>
-    <string name="global_action_privacy_mode_off_status">Гостевой режим отключен.</string>
     <string name="lockscreen_time_bottom_hint">Сдвиньте, чтобы разблокировать</string>
     <string name="lockscreen_call_bottom_hint">Сдвиньте, чтобы сделать вызов</string>
     <string name="lockscreen_sms_bottom_hint">Сдвиньте, чтобы открыть SMS</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
-    <string name="keyguard_incorrect_pin_with_retry_count">Осталось попыток %d</string>
     <string name="lockscreen_unlock_sim_via_puk">Введите PUK код для разблокировки SIM карты</string>
     <string name="safetylegal_activity_unreachable">Ваш телефон не подключен к службе передачи данных. Чтобы просмотреть эти сведения, перейдите по ссылке %s с любого компьютера, подключенного к Интернету.</string>
     <string name="miui_copyright_title">Авторское право</string>
@@ -72,17 +60,13 @@
     <string name="sd_not_available_use_internal_storage">SD-карта не доступна, будет использована внутренняя память</string>
     <string name="sd_not_available_low_internal_storage">SD-карта не доступна и отсутствует внутреннее устройство хранения</string>
     <string name="sd_not_available_saved_to_internal_storage">Файл сохранён во внутреннюю память</string>
-    <string name="first_back_long_press_title">Длительное нажатие клавиш</string>
-    <string name="first_back_long_press_message">Включить функцию длительного нажатия клавиши Назад для завершения текущего процесса и его фоновых служб? \n\nВключить можно в Настройках &gt; Система &gt; Настройка кнопок</string>
-    <string name="force_exit_message">Успешно закрыто \"%1$s\"</string>
     <string name="unknown">Неизвестный номер</string>
     <string name="private_num">Приватный номер</string>
     <string name="payphone">Телефоный автомат</string>
     <string name="callNoAnswerTimeFormat">гудки %s раз</string>
     <string name="date_day">Дата</string>
-    <string name="solar_calendar">Григорианский календарь</string>
     <string name="lunar_calendar">Лунный календарь</string>
-	<string name="lunar_zheng">1</string>
+    <string name="lunar_zheng">1</string>
     <string name="lunar_leap">(Високосный)</string>
     <string name="lunar_ling">0</string>
     <string name="lunar_yi">1</string>
@@ -104,7 +88,6 @@
     <string name="lunar_nian">Неделя</string>
     <string name="lunar_yue">Месяц</string>
     <string name="lunar_year"> Год </string>
-    <!-- lunar holidays -->
     <string name="the_spring_festival">Китайский Новый год</string>
     <string name="lantern_festival">Фестиваль фонарей</string>
     <string name="the_dragon_boat_festival">Фестиваль лодок-драконов</string>
@@ -112,7 +95,6 @@
     <string name="the_mid_autumn_festival">Праздник середины осени</string>
     <string name="the_double_ninth_festival">Чунъян фестиваль</string>
     <string name="the_laba_rice_porridge_festival">Лаба</string>
-    <!-- solar holidays -->
     <string name="new_years_day">Новый Год</string>
     <string name="valentines_day">День Святого Валентина</string>
     <string name="international_womens_day">Международный Женский день</string>
@@ -126,7 +108,6 @@
     <string name="teachers_day">День учителя</string>
     <string name="national_day">День нации</string>
     <string name="christmas_dad">Рождество</string>
-    <!-- solar terms -->
     <string name="slight_cold">Осаму</string>
     <string name="great_cold">Великие холода</string>
     <string name="spring_begins">Весна</string>
@@ -151,7 +132,6 @@
     <string name="light_snow">Легкий снег</string>
     <string name="heavy_snow">Снегопады</string>
     <string name="winter_solstice">Зимнее солнцестояние</string>
-	<!--  -->
     <string name="country_name_bs">Багамы</string>
     <string name="country_name_bb">Барбадос</string>
     <string name="country_name_ai">Ангилья</string>
@@ -383,98 +363,26 @@
     <string name="country_name_kg">Кыргызстан</string>
     <string name="country_name_uz">Узбекистан</string>
     <string name="firewall_setting">Файрвол</string>
-    <string-array name="alphabet_table">
-	  <item>\#</item> 
-	  <item>А</item> 
-	  <item>Б</item> 
-	  <item>В</item> 
-	  <item>Г</item> 
-	  <item>Д</item> 
-	  <item>Е</item> 
-	  <item>Ж</item> 
-	  <item>З</item> 
-	  <item>И</item> 
-	  <item>К</item> 
-	  <item>Л</item> 
-	  <item>М</item> 
-	  <item>Н</item> 
-	  <item>О</item> 
-	  <item>П</item> 
-	  <item>Р</item> 
-	  <item>С</item> 
-	  <item>Т</item> 
-	  <item>У</item> 
-	  <item>Ф</item> 
-	  <item>Х</item> 
-	  <item>Ц</item> 
-	  <item>Ч</item> 
-	  <item>Ш</item> 
-	  <item>Щ</item> 
-	  <item>Э</item> 
-	  <item>Ю</item> 
-	  <item>Я</item> 
-    </string-array>
+    <string name="keyguard_incorrect_pin_with_retry_count">Попыток осталось %d</string>
     <string name="caller_info_name_delimiter">или</string>	
+    <string name="android_phoneTypeMms">@android:string/phoneTypeMms</string>
+    <string name="first_back_long_press_title">Длительное нажатие клавиш</string> 
+    <string name="first_back_long_press_message">Включить функцию длительного нажатия клавиши Назад для завершения текущего процесса и его фоновых служб? \n\nВключить можно в Настройках > Система > Настройка кнопок</string> 
+ 
+    <string name="force_exit_message">Успешно закрыто \"%1$s\"</string> 
+    <string name="global_action_toggle_privacy_mode">Гость</string> 
+    <string name="global_action_privacy_mode_on_status">Гостевой режим включен.</string> 
+    <string name="global_action_privacy_mode_on_toast">Гостевой режим включен. Журнал вызовов и текстовых сообщений скрыты, редактирование рабочего стола заблокировано.</string> 
+    <string name="global_action_privacy_mode_dialog_message">При включенном \"Гостевом режиме\" журнал вызовов и текстовых сообщений будут скрыты, а редактирование рабочего стола заблокировано. Следует ли включить этот режим?</string> 
+    <string name="global_action_privacy_mode_off_status">Гостевой режим отключен.</string> 
     <string name="delete">Удалить</string>
     <string name="select_all">Выбрать все</string>
     <string name="reverse_all">Очистить все</string>
-    <string name="multi_select_title">Выбрано <xliff:g id="number" example="15">%1$s</xliff:g> элемент(ов)</string>
+    <string name="multi_select_title">Выбрано %1$s элемент(ов)</string>
     <string name="sim_account_name">SIM</string>
-	
-	<plurals name="abbrev_less_than_one_minute_ago">
-		<item quantity="other">Только что</item> 
-	</plurals>
-	<plurals name="less_than_one_minute_ago">
-		<item quantity="other">Только что</item> 
-	</plurals>
-	<plurals name="abbrev_in_less_than_one_minute">
-		<item quantity="other">Немедленно</item> 
-	</plurals>
-	<plurals name="in_less_than_one_minute">
-		<item quantity="other">Немедленно</item> 
-	</plurals>
-	<plurals name="abbrev_a_hour_ago">
-		<item quantity="other">Час назад</item> 
-	</plurals>
-	<plurals name="abbrev_half_hour_ago">
-		<item quantity="other">Полчаса назад</item> 
-	</plurals>
-	<plurals name="a_hour_ago">
-		<item quantity="other">Час назад</item> 
-	</plurals>
-	<plurals name="half_hour_ago">
-		<item quantity="other">Полчаса назад</item> 
-	</plurals>
-	<plurals name="abbrev_in_a_hour">
-		<item quantity="other">Час назад</item> 
-	</plurals>
-	<plurals name="abbrev_in_half_hour">
-		<item quantity="other">Полчаса назад</item> 
-	</plurals>
-	<plurals name="in_a_hour">
-		<item quantity="other">Час назад</item> 
-	</plurals>
-	<plurals name="in_half_hour">
-		<item quantity="other">Полчаса назад</item> 
-	</plurals>
-	<plurals name="abbrev_num_minutes_ago">
-		<item quantity="other">%d мин назад</item> 
-		<item quantity="one">1 мин назад</item> 
-	</plurals>
-	<plurals name="num_minutes_ago">
-		<item quantity="other">%d мин назад</item> 
-		<item quantity="one">1 мин назад</item> 
-	</plurals>
-	<plurals name="abbrev_in_num_minutes">
-		<item quantity="other">в %d мин</item> 
-		<item quantity="one">в 1 мин</item> 
-	</plurals>
-	<plurals name="in_num_minutes">
-		<item quantity="other">в %d мин</item> 
-		<item quantity="one">в 1 мин</item> 
-	</plurals>
     <string name="text_pastelist">Буфер обмена</string>
     <string name="select">Выбор</string>
-	<string name="never">Никогда</string>
     <string name="every_day">Каждый день</string>
+    <string name="never">Никогда</string>
+    <string name="solar_calendar">Григорианский календарь</string> 
 </resources>
