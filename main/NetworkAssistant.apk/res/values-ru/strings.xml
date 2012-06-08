@@ -121,4 +121,6 @@
     <string name="cannot_find_sms_cmd">"Команда СМС не найдена"</string>
     <string name="sms_template_match_fail">Не соответствует шаблону СМС</string>
     <string name="traffic_settings_error">Ошибка в настройках ежемесячного разрешенного трафика. Согласно вашему оператору, размер вашего трафика: %1$s и осталось: %2$s.</string>
+    <string name="app_traffic_detail">\u0020трафик(%s)</string>
+    <string name="sms_match_fail">ошибка SMS</string>	
 </resources>
