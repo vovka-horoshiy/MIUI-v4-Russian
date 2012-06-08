@@ -190,7 +190,7 @@
     <string name="settings_toggle_layout_style_single_page">Сетка</string>
     <string name="settings_toggle_layout_style_applying">Изменение стиля переключателей...</string>
     <string name="settings_toggle">Переключатели</string>
-    <string name="settings_toggle_position">Настройка расположения переключателей</string>
+    <string name="settings_toggle_position">Расположение переключателей</string>
     <string name="settings_toggle_position_divider_page">%1$d переключателей выше, будут активны</string>
     <string name="settings_toggle_position_divider_list">Переключатели выше линии, будут активны</string>
     <string name="settings_toggle_position_reset">Сброс переключателей</string>
