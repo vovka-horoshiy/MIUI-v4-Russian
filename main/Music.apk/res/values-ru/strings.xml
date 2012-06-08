@@ -30,9 +30,19 @@
 	<string name="flow_save_hint_summary">Вывод всплывающего окна для подтверждения загрузки песни</string>
 	<string name="other_settings">Дополнительно</string>
 	<string name="music_filter">Фильтр размера музыкальных файлов</string>
-	<string name="min_track_size">Минимальный размер</string>
+    <string name="filter_by_size">Фильтр по размеру</string>	
+    <string name="filter_by_size_prefix">"Минимальный размер: "</string>	
+    <string name="filter_by_size_summary">Фильтровать маленькие аудио файлы</string>	
+    <string name="filter_by_duration">Фильтр по длительности</string>	
+    <string name="filter_by_duration_prefix">"Минимальная длительность: "</string>	
+    <string name="filter_by_duration_summary">Фильтровать короткие аудио файлы</string>	
+    <string name="filter_by_duration_min">0с</string>	
+    <string name="filter_by_duration_max">5мин</string>	
+    <string name="filter_by_duration_format"><xliff:g id="format">%2$d:%5$02d</xliff:g></string>	
 	<string name="filter_by_folder">Фильтр по папкам</string>
 	<string name="select_folder">Выберите папку</string>
+    <string name="filter_by_folder_summary_on">Вкл, кликните для редактирования папок фильтра</string>	
+    <string name="filter_by_folder_summary_off">Выкл, кликните для установки папок фильтра</string>	
 	<string name="android_album_settings">Встроенные обложки</string>
 	<string name="android_album_summary">Автоматическое использование обложки альбома песни может привести к ошибкам.</string>
 	<string name="play_and_download">Прослушать и загрузить</string>
@@ -42,11 +52,11 @@
 	<string name="keep_quit_position_settings">Помнить последнюю позицию</string>
 	<string name="keep_quit_position_summary">Возврат трека на последнюю позиции после повторного запуска приложения</string>
 	<string name="shake_settings">Встряхивание</string>
-	<string name="shake_while_screen_on_title">Только при включенном экране</string>
 	<string name="shake_summary">Встряхните устройство для перехода к следующей песне</string>
-	<string name="shake_sensitivity_settings">Чувствительность встряхивания</string>
-	<string name="shake_sensitivity_summary">Отрегулируйте чувствительность встряски</string>
-	<string name="shake_sensitivity_helper">Перемещение влево для увеличения чувствительности, право для понижения</string>
+    <string name="shake_degree_desc">Чувствительность</string>	
+    <string name="shake_degree_low">Низкая</string>	
+    <string name="shake_degree_high">Высокая</string>	
+    <string name="shake_while_screen_on_title">Переключать при активном экране</string>
 	<string name="album_display_settings">Отображать обложки</string>
 	<string name="lyric_display_settings">Отображать тексты</string>
 	<string name="spectrogram_display_settings">Отображение спектра</string>
@@ -59,7 +69,6 @@
 	<string name="delete_song_desc">Вы уверены что хотите удалить файл %s с SD-карты?</string>
 	<string name="scanning">Сканирование SD-карты…</string>
 	<string name="scanning_nosdcard">Сканирование SD-карты…</string>
-	<string name="nowplaying_title">Проигрывается</string>
 	<string name="online_indicator">-онлайн</string>
 	<string name="search_title">Поиск</string>
 	<string name="no_tracks_title">Нет песен</string>
@@ -70,7 +79,9 @@
 	<string name="rename_artist_menu">Переименовать исполнителя</string>
 	<string name="playlist_deleted_message">Плейлист удален.</string>
 	<string name="playlist_renamed_message">Плейлист переименован.</string>
-	<string name="recentlyadded_title">Недавно добавленные</string>
+	<string name="recentlyadded_title">Недавно добавленные</string>	
+    <string name="recentlyplayed_title">Недавно проигранные</string>		
+    <string name="frequentlyplayed_title">Часто проигранные</string>	
 	<string name="sdcard_missing_message">SD-карта не вставлена в телефон.</string>
 	<string name="sdcard_missing_message_nosdcard">SD-карта не вставлена в телефон.</string>
 	<string name="sdcard_busy_message">К сожалению ваша SD-карта занята.</string>
@@ -174,11 +185,13 @@
 	<string name="albums_title">Альбомы</string>
 	<string name="folders_title">Папки</string>
 	<string name="tracks_title">Все песни</string>
-	<string name="playlists_title">Плейлисты</string>
-	<string name="online_track_count">Бесконечные</string>
+	<string name="playlists_title">Плейлисты</string>	
+    <string name="playlist_system">Системный плейлист</string>	
+    <string name="playlist_custom">Мой плейлист</string>
 	<string name="playlist_new">Создать новый плейлист</string>
-	<string name="playlist_recently_added">Недавно добавленные</string>
-	<string name="playlist_nowplaying">Сейчас играет</string>
+	<string name="playlist_recently_added">Недавно добавленные</string>	
+    <string name="playlist_recently_played">Недавно проигранные</string>	
+    <string name="playlist_frequently_played">Часто проигранные</string>
 	<string name="playlist_favorite">Избранное</string>
 	<string name="create_playlist_create_text_prompt">Название плейлиста</string>
 	<string name="create_confirm">Ок</string>
@@ -194,14 +207,16 @@
 "</string>
         <string name="notification_artist_album">"%2$s
 %1$s"</string>
-	<string name="durationformatshort">%2$d:%5$02d</string>
+	<string name="durationformatshort">%2$d:%5$2d</string>
 	<string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
 	<string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
 	<string name="min_interval">1</string>
 	<string name="max_interval">90</string>
 	<string name="default_interval">30</string>
         <string name="folder_title_format" formatted="false">%s(%d)</string>
-	<string name="filter_max">2MB</string>
-	<string name="filter_min">0K</string>
-        <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+	<string name="filter_by_size_max">2MB</string>
+	<string name="filter_by_size_min">0K</string>
+    <string name="fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="category_num_format" translatable="false">(%s)</string>
+    <string name="track_num_format" translatable="false">(%s)</string>		
 </resources><!--Parsed with BurgerZ.pro XML Parser-->

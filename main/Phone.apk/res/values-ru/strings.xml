@@ -916,6 +916,11 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="respond_via_sms_canned_response_2_miui">&quot;Извините, сейчас я не могу ответить на звонок. Что я могу сделать для вас?&quot;</string>
 	<string name="respond_via_sms_canned_response_3_miui">&quot;Я сейчас очень занят. Перезвоню позже.&quot;</string>
 	<string name="respond_via_sms_canned_response_4_miui">&quot;Не могу сейчас говорить. Что случилось?&quot;</string>
+    <string name="call_waiting_tone_title_miui">Тон ожидания вызова</string>	
+    <string name="call_waiting_tone_summary_miui">Тон во время ожидания вызова (клавиши громкости отключают его)</string>	
+    <string name="call_waiting_tone_continuously_miui">Играть непрерывно</string>	
+    <string name="call_waiting_tone_twice_only_miui">Играть дважды</string>	
+    <string name="call_waiting_tone_twice_and_vibrate_miui">Вибрировать и играть дважды</string>	
 	<string name="label_rn1dp">RUIM network1 unlock PIN</string>
 	<string name="label_rn2dp">RUIM network2 unlock PIN</string>
 	<string name="label_rhrpd">RUIM hrpd unlock PIN</string>

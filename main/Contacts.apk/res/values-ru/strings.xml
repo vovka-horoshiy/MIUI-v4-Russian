@@ -626,7 +626,9 @@
     <string name="save_photo_progress">Фото сохраняется...</string>
     <string name="edit_photo">Изменить фото</string>
     <string name="edit_hint">Изменить</string>
-	<string name="close">Закрыть</string>
+    <string name="next_birthday">Следующий День рождения: %s</string>	
+    <string name="today">Сегодня</string>	
+    <string name="click_close">Коснитесь экрана чтобы закрыть</string>
     <string name="date_picker_label">Напомнить за 3 дня до и в сам день события</string>
     <string name="pkgLabel">Контакты и Вызовы</string>
 </resources>
