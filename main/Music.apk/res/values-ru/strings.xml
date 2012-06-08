@@ -38,7 +38,7 @@
     <string name="filter_by_duration_summary">Фильтровать короткие аудио файлы</string>	
     <string name="filter_by_duration_min">0с</string>	
     <string name="filter_by_duration_max">5мин</string>	
-    <string name="filter_by_duration_format"><xliff:g id="format">%2$d:%5$02d</xliff:g></string>	
+    <string name="filter_by_duration_format">%2$d:%5$02d</string>	
 	<string name="filter_by_folder">Фильтр по папкам</string>
 	<string name="select_folder">Выберите папку</string>
     <string name="filter_by_folder_summary_on">Вкл, кликните для редактирования папок фильтра</string>	
@@ -213,7 +213,7 @@
 	<string name="min_interval">1</string>
 	<string name="max_interval">90</string>
 	<string name="default_interval">30</string>
-        <string name="folder_title_format" formatted="false">%s(%d)</string>
+    <string name="folder_title_format" formatted="false">%s(%d)</string>
 	<string name="filter_by_size_max">2MB</string>
 	<string name="filter_by_size_min">0K</string>
     <string name="fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
